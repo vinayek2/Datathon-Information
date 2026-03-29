@@ -1,4 +1,6 @@
-# Datathon-Information
+# Datathon-Team133 
+
+Objective: Develop a model to predict intraday contact center inbound call volume at the portfolio level. Forecast data shouldaccount for 24/7 servicing in 30-minute intervals for each day in a month. Historical data at daily & interval levels hasbeen provided for 4 portfolios of varying sizes within the Diversified & Value platform.
 
 This repository contains our end-to-end workflow for the datathon submission: cleaning the raw Excel workbook, standardizing the interval timestamps, filling missing values with a SARIMAX/Kalman-based approach, and generating forecasts for the submission template with XGBoost.
 
