@@ -277,7 +277,7 @@ If you run this outside Colab, update those paths to match your local machine.
 Add your project/demo video link here:
 
 ```text
-[PASTE VIDEO LINK HERE]
+https://mediaspace.illinois.edu/media/t/1_5gvua3rc
 ```
 
 ## Summary
